@@ -7,7 +7,7 @@ end_time: "2020-02-28 10:30:00"
 
 Using the method make_booking! New bookings can be made
  
-Input: make_booking!("2020-02-28 10:00:00", "2020-02-28 11:00:00")
-Expected outcome:  There are no spaces available between on 28th Feb from 10:00 - 11:00. 
+- Input: make_booking!("2020-02-28 10:00:00", "2020-02-28 11:00:00")
+- Expected outcome:  There are no spaces available between on 28th Feb from 10:00 - 11:00. 
 
 
